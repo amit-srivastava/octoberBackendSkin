@@ -1,0 +1,8 @@
+name: octoberBackendSkin
+description: A plain starter template that implements account management, a blog and community forum.
+author: Amit Srivastava
+homepage: 'http://www.octobererp.com/'
+code: Anutech
+required plugin:
+    - Backend Skin : Cyd293.BackendSkin
+
