@@ -26,6 +26,6 @@ octoberBackendSkin Theme
 ![Application Pages](https://github.com/lokios/octobererp/blob/master/docs/Backend_UI/image_11.png)
 
 
-Backend Skin updates with Bootstrap AdminLTE themes. This theme depends on plugin Backend Skin : Cyd293.BackendSkin. 
+Bootstrap AdminLTE themes integrated and updated as per the octobercms backend skins. This theme depends on plugin Backend Skin : Cyd293.BackendSkin. 
 
-Needs to the backend folder in activated frontend theme folder.
+Just copy backend folder in activate front-end theme folder and enjoy the updated UI.
