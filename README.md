@@ -29,3 +29,5 @@ octoberBackendSkin Theme
 Bootstrap AdminLTE themes integrated and updated as per the octobercms backend skins. This theme depends on plugin Backend Skin : Cyd293.BackendSkin. 
 
 Just copy backend folder in activate front-end theme folder and enjoy the updated UI.
+
+Limitation : This theme is not working on core backend actions like Settings, CMS, Builders etc.
